@@ -5,5 +5,7 @@ public class SameLetters {
     Ex:  same("abc",  "cab"); -> true
     same("abc",  "abb"); -> false:*/
 
+    public static void main(String[] args) {
 
+    }
 }
